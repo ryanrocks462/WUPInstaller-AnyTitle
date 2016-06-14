@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>WUP Installer</name>
+  <coder>Crediar</coder>
+  <version>2.0</version>
+  <release_date>20160508120000</release_date>
+  <short_description>DevMenu.</short_description>
+  <long_description>This application can install titles such as game updates or even full titles to your system memory (NAND) or the WiiU formatted USB.
+  </long_description>
+</app>
